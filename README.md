@@ -18,7 +18,8 @@ Completed:
 * [] Optional: `-h` argument prints CLI API
 
 Walkthrough Gif:
-https://github.com/pushjaswal/proxy-server/blob/master/twitter-demo.gif
+
+<img src="https://github.com/pushjaswal/proxy-server/blob/master/twitter-demo.gif" alt="Proxy server gif">
 
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
