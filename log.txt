@@ -1,2 +1,5 @@
 proxy server listening at 172.0.0.1:8000
 proxy server listening at 172.0.0.1:9000
+proxyServer
+{"host":"127.0.0.1:9000","user-agent":"curl/7.43.0","accept":"*/*","foo":"bar","x-destination-url":"127.0.0.1:8000","content-length":"11","content-type":"application/x-www-form-urlencoded"}
+{"host":"127.0.0.1:8000"}{"host":"127.0.0.1:8000","connection":"close"}
