@@ -1,9 +1,10 @@
- {
+{
   "name": "proxy-server",
   "version": "1.0.0",
   "description": "A proxy server and echo server",
   "main": " ",
   "dependencies": {
+    "fs": "0.0.1-security",
     "request": "^2.75.0"
   },
   "devDependencies": {},
